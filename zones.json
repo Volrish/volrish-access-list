@@ -1,4 +1,7 @@
 [
-  { "x": -500, "z": -500, "radius": 300, "location": "safe" },
-  { "x": 2000, "z": 1000, "radius": 400, "location": "safe" }
+  { "x": 1270, "z": 40, "radius": 300, "location": "safe" },
+  { "x": 760, "z": -555, "radius": 300, "location": "safe" },
+  { "x": 200, "z": 540, "radius": 300, "location": "safe" },
+  { "x": 760, "z": -75, "radius": 350, "location": "safe" },
+  { "x": -940, "z": 620, "radius": 350, "location": "safe" }
 ]
