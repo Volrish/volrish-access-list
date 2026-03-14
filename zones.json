@@ -1,8 +1,8 @@
 [
-  { "minX": -1632, "maxX": -1212, "minZ": 52,   "maxZ": 472,  "name": "Karbon Minahan"},
-  { "minX": -962,  "maxX": -562,  "minZ": 313,  "maxZ": 713,  "name": "Bakal Minahan"},
-  { "minX": -768,  "maxX": -388,  "minZ": -120, "maxZ": 260,  "name": "Monggol Minahan"},
-  { "minX": -207,  "maxX": 193,   "minZ": 334,  "maxZ": 734,  "name": "Pulangbato Minahan"},
-  { "minX": 570,   "maxX": 950,   "minZ": -673, "maxZ": -293, "name": "Bulawan Minahan"},
-  { "minX": 1080,  "maxX": 1440,  "minZ": -95,  "maxZ": 205,  "name": "Brilyante Minahan"}
+  { "minX": 1090, "maxX": 1450, "minZ": -110, "maxZ": 220,  "name": "Brilyante Minahan" },
+  { "minX": 560,  "maxX": 960,  "minZ": -275, "maxZ": 125,  "name": "Bulawan Minahan"    },
+  { "minX": -20,  "maxX": 380,  "minZ": 320,  "maxZ": 720,  "name": "Pulangbato Minahan"},
+  { "minX": -410, "maxX": -50,  "minZ": -125, "maxZ": 235,  "name": "Monggol Minahan"   },
+  { "minX": -1280,"maxX": -840, "minZ": 430,  "maxZ": 870,  "name": "Bakal Minahan"    },
+  { "minX": -1642,"maxX": -1202,"minZ": 42,   "maxZ": 482,  "name": "Karbon Minahan"    }
 ]
