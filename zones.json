@@ -1,7 +1,8 @@
 [
-  { "x": 1270, "z": 40, "radius": 300, "location": "safe" },
-  { "x": 760, "z": -555, "radius": 300, "location": "safe" },
-  { "x": 180, "z": 520, "radius": 300, "location": "safe" },
-  { "x": 760, "z": -75, "radius": 350, "location": "safe" },
-  { "x": -940, "z": 620, "radius": 350, "location": "safe" }
+  { "minX": -1632, "maxX": -1212, "minZ": 52,   "maxZ": 472,  "name": "Coal Mine"     },
+  { "minX": -962,  "maxX": -562,  "minZ": 313,  "maxZ": 713,  "name": "Iron Mine"     },
+  { "minX": -768,  "maxX": -388,  "minZ": -120, "maxZ": 260,  "name": "Lapis Mine"    },
+  { "minX": -207,  "maxX": 193,   "minZ": 334,  "maxZ": 734,  "name": "Redstone Mine" },
+  { "minX": 570,   "maxX": 950,   "minZ": -673, "maxZ": -293, "name": "Gold Mine"     },
+  { "minX": 1080,  "maxX": 1440,  "minZ": -95,  "maxZ": 205,  "name": "Diamond Mine"  }
 ]
