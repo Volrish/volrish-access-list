@@ -1,8 +1,8 @@
 [
-  { "minX": 1090, "maxX": 1450, "minZ": -110, "maxZ": 220,  "name": "Brilyante Minahan" },
-  { "minX": 560,  "maxX": 960,  "minZ": -275, "maxZ": 125,  "name": "Bulawan Minahan"    },
-  { "minX": -20,  "maxX": 380,  "minZ": 320,  "maxZ": 720,  "name": "Pulangbato Minahan"},
-  { "minX": -410, "maxX": -50,  "minZ": -125, "maxZ": 235,  "name": "Monggol Minahan"   },
-  { "minX": -1280,"maxX": -840, "minZ": 430,  "maxZ": 870,  "name": "Bakal Minahan"    },
-  { "minX": -1642,"maxX": -1202,"minZ": 42,   "maxZ": 482,  "name": "Karbon Minahan"    }
+  { "minX": 1090, "maxX": 1450, "minZ": -110, "maxZ": 220,  "name": "Diamond" },
+  { "minX": 560,  "maxX": 960,  "minZ": -275, "maxZ": 125,  "name": "Gold"    },
+  { "minX": -20,  "maxX": 380,  "minZ": 320,  "maxZ": 720,  "name": "Redstone"},
+  { "minX": -410, "maxX": -50,  "minZ": -125, "maxZ": 235,  "name": "Lapis Lazuli"   },
+  { "minX": -1280,"maxX": -840, "minZ": 430,  "maxZ": 870,  "name": "Iron"    },
+  { "minX": -1642,"maxX": -1202,"minZ": 42,   "maxZ": 482,  "name": "Coal"    }
 ]
