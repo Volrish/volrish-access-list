@@ -3,52 +3,52 @@
     "name": "Diamond",
     "type": "Safe",
     "planet": "celestial",
-    "minX": 1090,
-    "maxX": 1450,
-    "minZ": -110,
-    "maxZ": 220
+    "minX": 1130,
+    "maxX": 1490,
+    "minZ": 400,
+    "maxZ": 740
   },
   {
     "name": "Gold",
     "type": "Safe",
     "planet": "celestial",
-    "minX": 560,
-    "maxX": 960,
-    "minZ": -275,
-    "maxZ": 125
+    "minX": 320,
+    "maxX": 665,
+    "minZ": 0,
+    "maxZ": -330
   },
   {
     "name": "Redstone",
     "type": "Safe",
     "planet": "celestial",
-    "minX": -20,
-    "maxX": 380,
-    "minZ": 320,
-    "maxZ": 720
+    "minX": -330,
+    "maxX": -60,
+    "minZ": -620,
+    "maxZ": -350
   },
   {
     "name": "Lapis Lazuli",
     "type": "Safe",
     "planet": "celestial",
-    "minX": -410,
-    "maxX": -50,
-    "minZ": -125,
-    "maxZ": 235
+    "minX": -765,
+    "maxX": -425,
+    "minZ": 145,
+    "maxZ": 460
   },
   {
     "name": "Iron",
     "type": "safe",
     "planet": "celestial",
-    "minX": -1280,
-    "maxX": -840,
-    "minZ": 430,
-    "maxZ": 870
+    "minX": -1475,
+    "maxX": -1050,
+    "minZ": -360,
+    "maxZ": -150
   },
   {
     "name": "Coal",
     "type": "Safe",
     "planet": "celestial",
-    "minX": -1642,
+    "minX": -1260,
     "maxX": -1202,
     "minZ": 42,
     "maxZ": 482
